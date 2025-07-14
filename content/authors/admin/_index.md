@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 
+title: Meheli Ghosh
 
 # Name pronunciation (optional)
 name_pronunciation: Meheli Ghosh
 
 # Full name (for SEO)
-first_name: Meheli
-last_name: Ghosh
+first_name: 
+last_name: 
 
 # Status emoji
 status:
