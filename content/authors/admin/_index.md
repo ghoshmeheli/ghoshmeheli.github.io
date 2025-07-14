@@ -3,11 +3,11 @@
 title: 吳健雄
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Meheli Ghosh
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Meheli
+last_name: Ghosh
 
 # Status emoji
 status:
@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:Meheli.Ghosh@live.mercer.edu'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
@@ -40,19 +40,19 @@ profiles:
   - icon: brands/github
     url: https://github.com/gcushen
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/meheli-ghosh-743924174
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=JXybXKYAAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://www.researchgate.net/profile/Meheli-Ghosh
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Drug Delivery
+  - Drug Formulation
+  - Drug Design
 
 education:
-  - area: PhD Artificial Intelligence
+  - area: PhD Pharmachetutical Sciences
     institution: Stanford University
     date_start: 2016-01-01
     date_end: 2020-12-31
