@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 吳健雄
+title: মেহেলী ঘোষ
 
 # Name pronunciation (optional)
 name_pronunciation: Meheli Ghosh
