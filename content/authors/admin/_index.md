@@ -6,8 +6,8 @@ title: Meheli Ghosh
 name_pronunciation: Meheli Ghosh
 
 # Full name (for SEO)
-first_name: 
-last_name: 
+first_name: মেহেলি
+last_name: ঘোষ
 
 # Status emoji
 status:
