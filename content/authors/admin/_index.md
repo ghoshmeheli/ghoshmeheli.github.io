@@ -1,6 +1,6 @@
 ---
 # Display name
-title: মেহেলী ঘোষ
+title: 
 
 # Name pronunciation (optional)
 name_pronunciation: Meheli Ghosh
