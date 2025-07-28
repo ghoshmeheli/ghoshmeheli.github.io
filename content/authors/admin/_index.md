@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 梅赫利·戈什
+title: Ph.D. Candidate
 
 # Name pronunciation (optional)
 name_pronunciation: Meheli Ghosh
@@ -20,11 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Ph.D. Student
+role: Pharmaceutical Sciences
+
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Mercer University (Skin Delivery Lab)
+  - name: Mercer University 
     url: https://sites.google.com/view/muskindeliverylab/home
 
 # Social network links
@@ -183,4 +184,9 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Ph.D. candidate in Pharmaceutical Sciences, with a strong focus on formulation and drug product development, backed by a solid foundation in biotechnology and nanotechnology. Experienced in developing a wide range of drug delivery systems through collaborative industry, NIH, and FDA-funded projects.
+Expertise includes formulation design, QbD-based optimization, in vitro testing, method development, and advanced data analysis. Proficient in HPLC/UPLC, rheology, microscopy, texture analysis, DLS, DSC, and FTIR.
+
+Academic path highlighted by an M.S. in Nanotechnology (University Gold Medalist) and a B.S. in Biotechnology, complemented by research internships at CSIR and UT Austin, building strengths in experimental planning, project execution, and cross-functional collaboration.
+
+Actively seeking formulation scientist opportunities in pharma or biotech to advance high-quality drug products across diverse delivery platforms. Open to new collaborations and professional connections.
