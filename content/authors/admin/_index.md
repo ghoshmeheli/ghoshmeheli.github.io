@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Meheli Ghoshh
+title: Meheli Ghosh
 
 # Name pronunciation (optional)
-name_pronunciation: Meheli Ghosh
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Ph.D.
