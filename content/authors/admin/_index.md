@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Ph.D. Candidate
+title: Meheli Ghosh
 
 # Name pronunciation (optional)
 name_pronunciation: Meheli Ghosh
 
 # Full name (for SEO)
-first_name: Meheli
-last_name: Ghosh
+first_name: Ph.D.
+last_name: Candidate
 
 # Status emoji
 status:
