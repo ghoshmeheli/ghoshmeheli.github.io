@@ -39,11 +39,13 @@ sections:
        I’ve worked on a variety of dosage forms and delivery systems including nano/microparticles, polymeric carriers, microneedles, 
        emulsions, and patches with an emphasis on optimizing performance, stability, and scalability.
 
-      During my Ph.D., I’ve applied specific formulation strategies to enhance, sustain, or target drug delivery, tailoring systems based on therapeutic requirements, route of administration, and performance objectives.
-Across multiple federally funded and industry-partnered projects, I’ve contributed to preformulation studies, QbD-based optimization, method development, and in vitro evaluation of complex drug products. While my experience includes both small molecules and advanced delivery platforms, my approach is always rooted in practical problem-solving, scientific rigor, and strong documentation practices.
-My goal is to support the development of high-quality, effective drug products across a range of therapeutic areas and delivery routes. I’m especially interested in roles that value cross-functional collaboration, technical depth, and scientific rigor.
-<img width="468" height="232" alt="image" src="https://github.com/user-attachments/assets/04d04862-72f7-4213-81f3-f19413532f6d" />
-
+      During my Ph.D., I’ve applied specific formulation strategies to enhance, sustain, or target drug delivery, tailoring systems based 
+      on therapeutic requirements, route of administration, and performance objectives.
+    Across multiple federally funded and industry-partnered projects, I’ve contributed to preformulation studies, QbD-based optimization, 
+    method development, and in vitro evaluation of complex drug products. While my experience includes both small molecules and advanced 
+    delivery platforms, my approach is always rooted in practical problem-solving, scientific rigor, and strong documentation practices.
+    My goal is to support the development of high-quality, effective drug products across a range of therapeutic areas and delivery routes. 
+    I’m especially interested in roles that value cross-functional collaboration, technical depth, and scientific rigor.
         
         Please reach out to collaborate 😃
     design:
