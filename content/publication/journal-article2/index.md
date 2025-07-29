@@ -3,12 +3,6 @@ title: "Sustained delivery of 4-phenylbutyric acid via chitosan nanoparticles in
 authors:
 - admin
 - Nethra Viswaroopan
-- Sharvari M. Kshirsagar
-- Jasim Khan
-- Suha Mohiuddin
-- Ritesh K. Srivastava
-- Mohammad Athar 
-- Ajay K. Banga
 author_notes:
 date: "2025-09-15T00:00:00Z"
 doi: ""
