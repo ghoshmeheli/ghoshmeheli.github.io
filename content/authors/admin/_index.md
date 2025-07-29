@@ -53,8 +53,8 @@ interests:
 education:
   - area: Ph.D. Pharmaceutical Sciences
     institution: Mercer University
-    date_start: 2022-08-15
-    date_end: 2020-12-31
+    date_start: '2022-08-15'
+    date_end: '2020-12-31'
     summary: |
       Thesis on _Formulation strategies for enhanced, sustained, and targeted skin delivery of actives_. Supervised by [Prof Ajay K. Banga](https://pharmacy.mercer.edu/faculty/banga/). Presented papers at 15+ posters at various national and international conferences with the contributions being published in top-tier Pharmaceutical Sciences journals (e.g., JDDST, IJP, DDTR, EPJ, IJBM, etc.).
     button:
@@ -62,8 +62,8 @@ education:
       url: 'https://example.com'
   - area: M.Sc. Nanotechnology (University Gold Medal)
     institution: Central University of Gujarat
-    date_start: 2019-08-10
-    date_end: 2021-07-31
+    date_start: '2019-08-10'
+    date_end: '2021-07-31'
     summary: |
       GPA: 10/0/10.0
 
@@ -77,8 +77,8 @@ education:
       - Nanotechnology for Tissue Engineering
   - area: B.Sc. Biotechnology (Institue Rank 1)
     institution: Bangalore University
-    date_start: 2016-08-25
-    date_end: 2019-06-31
+    date_start: '2016-08-25'
+    date_end: '2019-06-31'
     summary: |
       GPA: 8.21/10.0
       
@@ -94,8 +94,8 @@ work:
     company_name: IIT-RAM
     company_url: https://iitram.ac.in/
     company_logo: ''
-    date_start: 2021-07-01
-    date_end: 2022-03-31
+    date_start: '2021-07-01'
+    date_end: '2022-03-31'
     summary: |
       Responsibilities include:
       - Worked on formulation and characterization of drug-loaded ionic liquids.
@@ -105,7 +105,7 @@ work:
     company_name: CSIR-NEIST
     company_url: https://www.neist.res.in/
     company_logo: ''
-    date_start: 2020-07-01
+    date_start: '2020-07-01'
     date_end: ''
     summary: |
       Responsibilities include:
