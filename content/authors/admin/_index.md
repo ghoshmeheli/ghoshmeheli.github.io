@@ -195,8 +195,7 @@ awards:
     awarder: Topical Products Conference
     icon: 
     summary: |
-     <img width="179" height="238" alt="image" src="https://github.com/user-attachments/assets/0fa24e5f-8a02-4999-afdf-bc3426aef5fc" />
-     <img width="179" height="238" alt="image" src="https://github.com/user-attachments/assets/0fa24e5f-8a02-4999-afdf-bc3426aef5fc" />
+     <img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/0fa24e5f-8a02-4999-afdf-bc3426aef5fc" />
 
   - title: Blockchain Fundamentals
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
