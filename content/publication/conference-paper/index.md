@@ -89,4 +89,5 @@ Click the _Cite_ button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the _Slides_ button to check out the example.
 {{% /callout %}}
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+<img width="795" height="877" alt="image" src="https://github.com/user-attachments/assets/57bf4559-1e79-4ccf-aaa7-7c307701c0e6" />
+
