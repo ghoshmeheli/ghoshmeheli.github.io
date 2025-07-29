@@ -54,7 +54,7 @@ education:
   - area: Ph.D. Pharmaceutical Sciences
     institution: Mercer University
     date_start: '2022-08-15'
-    date_end: '2020-12-31'
+    date_end: ''
     summary: |
       Thesis on _Formulation strategies for enhanced, sustained, and targeted skin delivery of actives_. Supervised by [Prof Ajay K. Banga](https://pharmacy.mercer.edu/faculty/banga/). Presented papers at 15+ posters at various national and international conferences with the contributions being published in top-tier Pharmaceutical Sciences journals (e.g., JDDST, IJP, DDTR, EPJ, IJBM, etc.).
     button:
