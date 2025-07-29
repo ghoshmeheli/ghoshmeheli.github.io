@@ -78,7 +78,7 @@ education:
   - area: B.Sc. Biotechnology (Institue Rank 1)
     institution: Bangalore University
     date_start: '2016-08-25'
-    date_end: '2019-06-31'
+    date_end: ''
     summary: |
       GPA: 8.21/10.0
       
