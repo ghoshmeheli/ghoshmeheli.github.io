@@ -95,7 +95,7 @@ work:
     company_url: https://www.neist.res.in/
     company_logo: ''
     date_start: '2020-07-01'
-    date_end: '2020-09-31'
+    date_end: ''
     summary: |
       Responsibilities include:
       - Worked under CSIR-NEIST SRTP program 2020 on Phytoremediation. 
