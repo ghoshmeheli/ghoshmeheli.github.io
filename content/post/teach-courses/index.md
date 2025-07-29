@@ -39,6 +39,8 @@ We developed a novel dual-action topical foam with 4-PBA-loaded chitosan nanopar
 ## Funding:
 Supported by NIH/NIAMS U01AR078544 to M.A. The sponsors had no role in study design, data collection, analysis, or interpretation.
 
+<img width="322" height="298" alt="Formulation and characterization matrix for 4-PBA loaded chitosan nanoparticles." src="https://github.com/user-attachments/assets/3fa0a700-9823-417c-8df0-8604c4e19cd8" />
+
 
 ## References:
 
