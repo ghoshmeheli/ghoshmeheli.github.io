@@ -1,5 +1,5 @@
 ---
-title: 'Sustained delivery of 4-phenylbutyric acid via chitosan nanoparticles in foam for decontamination and treatment of lewisite-mediated skin injury'
+title: 'Sustained delivery of 4 phenylbutyric acid via chitosan nanoparticles in foam for decontamination and treatment of lewisite-mediated skin injury'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -13,11 +13,11 @@ author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2025-09-05T00:00:00Z'
+date: '2025-07-05T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2025-09-05T00:00:00Z'
+publishDate: '2025-07-05T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
