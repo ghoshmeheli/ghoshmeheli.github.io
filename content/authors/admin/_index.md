@@ -90,27 +90,6 @@ education:
       - Immunology and Animal Biotechnology
       - Industrial Biotechnology + Plant Biotechnology
 work:
-  - position: Summer Research Fellow
-    company_name: CSIR-NEIST
-    company_url: https://www.neist.res.in/
-    company_logo: ''
-    date_start: '2020-07-01'
-    date_end: ''
-    summary: |
-      Responsibilities include:
-      - Worked under CSIR-NEIST SRTP program 2020 on Phytoremediation. 
-      - Recevied Grade A certification for excellent performance.
-  - position: Research Assistant
-    company_name: IIT-RAM
-    company_url: https://iitram.ac.in/
-    company_logo: ''
-    date_start: '2021-07-01'
-    date_end: '2022-03-31'
-    summary: |
-      Responsibilities include:
-      - Worked on formulation and characterization of drug-loaded ionic liquids.
-      - Wrote a grant proposal to the Department of Science and Technology, India on “Studying structure and properties of Metal and Metal Oxide Nanoparticles capped with nutraceutical molecule and its Biological Applications”.
-      - Academic research, teaching, and management for undergraduate students.
   - position: Graduate Research Assistant
     company_name: Mercer University
     company_url: https://www.mercer.edu/
@@ -122,6 +101,27 @@ work:
       - Mentored several research elective students, summer interns, and junior Ph.D. students in the lab.
       - Lead TA for the dispensing lab of PharmD consisting of the preparation of various pharmaceutical dosage forms and training PharmD students in a variety of lab techniques.
       - Took lectures for Pharm.D. students and led multiple lab and industry collaborative projects with junior Ph.D. students.
+  - position: Research Assistant
+    company_name: IIT-RAM
+    company_url: https://iitram.ac.in/
+    company_logo: ''
+    date_start: '2021-07-01'
+    date_end: '2022-03-31'
+    summary: |
+      Responsibilities include:
+      - Worked on formulation and characterization of drug-loaded ionic liquids.
+      - Wrote a grant proposal to the Department of Science and Technology, India on “Studying structure and properties of Metal and Metal Oxide Nanoparticles capped with nutraceutical molecule and its Biological Applications”.
+      - Academic research, teaching, and management for undergraduate students.
+  - position: Summer Research Fellow
+    company_name: CSIR-NEIST
+    company_url: https://www.neist.res.in/
+    company_logo: ''
+    date_start: '2020-07-01'
+    date_end: ''
+    summary: |
+      Responsibilities include:
+      - Worked under CSIR-NEIST SRTP program 2020 on Phytoremediation. 
+      - Recevied Grade A certification for excellent performance.
   
 
 # Skills
