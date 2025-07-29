@@ -1,43 +1,43 @@
 ---
-title: "An example preprint / working paper"
+title: "Topical Foam for Simultaneous Treatment and Decontamination of Chemical Warfare Agents on Dermal Exposure"
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
-doi: ""
+date: "2025-04-07T00:00:00Z"
+doi: "https://doi.org/10.1208/s12249-025-03177-6"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2025-04-07T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "AAPS PharmSciTech"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Being highly toxic and a quick-acting vesicant, even small amounts of lewisite if not decontaminated immediately are rapidly absorbed into systemic circulation via skin exposure, leading to acute poisoning and death. The skin is the frst major target to such chemical weapons. Although the stratum corneum provides a barrier lewisite being a lipophilic molecule that readily permeates this barrier. This necessitates, making early and thorough decontamination prior to manifestation of adverse efects. For this, we aimed to decontaminate skin using an antidote-loaded topical foam, followed by treating local and systemic toxicity using the same formulation. Successful incorporation of 1% antidote into a decontaminating topical foam and the delivery of 1.78±0.21 µg/sq cm into dermatomed porcine ear skin within fve minutes of application was achieved. Decontamination after fve minutes of exposure (88.43%), as well as prolonged exposure (94.53%; 3 h) to methyl salicylate, a warfare chemical simulant, was demonstrated. The developed formulation demonstrated the potential to backextract simulant from skin tissue but could not purge simulant penetrated systemic circulation. However, systemic delivery of the antidote was demonstrated, establishing the potential to treat the toxicity caused by the remnant warfare chemicals.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Large Language Models
+- Decontaminate skin using topical foam
 
 featured: false
 
 links:
 - name: Custom Link
   url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: '#'
-url_poster: '#'
+url_pdf: https://pubmed.ncbi.nlm.nih.gov/40593372/
+url_code: ''
+url_dataset: ''
+url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: '#'
-url_video: '#'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -62,10 +62,17 @@ projects:
 slides: example
 ---
 
-This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
 
 {{% callout note %}}
 Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}}
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+<img width="854" height="861" alt="image" src="https://github.com/user-attachments/assets/fedb2fec-ddf5-448d-bd2a-f634e00fbcca" />
+<img width="839" height="446" alt="image" src="https://github.com/user-attachments/assets/75a7c847-923e-4132-89c5-fd3b2312ebe1" />
+<img width="871" height="809" alt="image" src="https://github.com/user-attachments/assets/f4fb12e3-a50c-4393-91b9-01428eb89d46" />
+<img width="860" height="728" alt="image" src="https://github.com/user-attachments/assets/91bb547c-0dd1-4b6d-8ccb-1fe1193daee6" />
+<img width="871" height="457" alt="image" src="https://github.com/user-attachments/assets/6112bdbe-8967-4fcc-8e93-79ab0d0d7af9" />
+
+
+
+
