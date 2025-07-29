@@ -45,8 +45,6 @@ interests:
   - Formulation Design
   - Drug product development
   - Advanced Drug Delivery Systems
-  - Transdermal, oral, parenteral, and topical dosage forms
-  - Nanoparticle and microparticle-based drug delivery systems
 
 
 
