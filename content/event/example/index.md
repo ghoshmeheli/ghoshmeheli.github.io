@@ -1,5 +1,5 @@
 ---
-title: Example Talk
+title: Ph.D. Proposal Talk
 
 event: Ph.D. Proposal Talk
 event_url: 
