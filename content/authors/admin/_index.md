@@ -96,7 +96,7 @@ work:
     company_logo: ''
     date_start: 2021-07-01
     date_end: 2022-03-31
-    summary: |2-
+    summary: |
       Responsibilities include:
       - Worked on formulation and characterization of drug-loaded ionic liquids.
       - Wrote a grant proposal to the Department of Science and Technology, India on “Studying structure and properties of Metal and Metal Oxide Nanoparticles capped with nutraceutical molecule and its Biological Applications”.
@@ -106,7 +106,7 @@ work:
     company_url: https://www.neist.res.in/
     company_logo: ''
     date_start: 2020-07-01
-    date_end: 2020-09-31
+    date_end: ''
     summary: |
       Responsibilities include:
       - Worked under CSIR-NEIST SRTP program 2020 on Phytoremediation. 
