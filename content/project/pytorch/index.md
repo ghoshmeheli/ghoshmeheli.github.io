@@ -1,13 +1,11 @@
 ---
-title: PyTorch
+title: U01 Grant funded by NIH/NIAMS (U01AR078544)
 date: 2023-10-26
-external_link: https://github.com/pytorch/pytorch
+external_link: 
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Foam Formulation for Decontamination
 ---
 
-PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
+Sustained Delivery of 4-Phenylbutyric acid (4-PBA) through Chitosan Nanoparticles in Foam Formulation for Decontamination and Treatment of Chemical Warfare Agent-Induced Skin Injury.
 
 <!--more-->
