@@ -90,6 +90,17 @@ education:
       - Immunology and Animal Biotechnology
       - Industrial Biotechnology + Plant Biotechnology
 work:
+  - position: Graduate Research Assistant
+    company_name: Mercer University
+    company_url: https://www.mercer.edu/
+    company_logo: ''
+    date_start: '2022-08-25'
+    date_end: ''
+    summary: |
+      Responsibilities include:
+      - Mentored several research elective students, summer interns, and junior Ph.D. students in the lab.
+      - Lead TA for the dispensing lab of PharmD consisting of the preparation of various pharmaceutical dosage forms and training PharmD students in a variety of lab techniques.
+      - Took lectures for Pharm.D. students and led multiple lab and industry collaborative projects with junior Ph.D. students.
   - position: Research Assistant
     company_name: IIT-RAM
     company_url: https://iitram.ac.in/
@@ -106,7 +117,7 @@ work:
     company_url: https://www.neist.res.in/
     company_logo: ''
     date_start: '2020-07-01'
-    date_end: ''
+    date_end: '2020-09-31'
     summary: |
       Responsibilities include:
       - Worked under CSIR-NEIST SRTP program 2020 on Phytoremediation. 
