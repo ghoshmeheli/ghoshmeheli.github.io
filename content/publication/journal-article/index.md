@@ -1,16 +1,16 @@
 ---
-title: "An example journal article"
+title: "Formulation and evaluation of a transdermal drug-in-adhesive patch for lamotrigine delivery in potential epilepsy treatment"
 authors:
 - admin
-- Robert Ford
+- Ajay K Banga
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+date: "2025-5-21"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "April 2025"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -18,22 +18,22 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "Journal of Drug Delivery Science and Technology"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Lamotrigine, a first-line treatment for epilepsy, has been shown to effectively reduces seizure frequency and severity. However, its current oral dosage form presents limitations such as polypharmacy, polyphagia, poor patient compliance, and adverse systemic effects. In this study, a matrix-type transdermal patch was investigated for continuous lamotrigine delivery over three days. Various penetration enhancers were screened, with a combination of oleic acid and oleyl alcohol proving most effective. Suspension-based transdermal patches were formulated using acrylate and polyisobutylene (PIB) pressure-sensitive adhesives, with or without propylene glycol (PG), in different thicknesses via solvent evaporation. Optimized patches (P1-P5) were characterized for adhesive properties, drying time, peel strength, tack, shear strength, and drug content uniformity. In vitro permeation studies were conducted using Franz diffusion cells with porcine ear skin and human epidermis over 72 h. A developed HPLC method was used to quantify drug permeation. Passive delivery through PG alone was found to be insufficient (23.36 ± 5.6 μg/sq. cm). The 400 GSM PIB patch with PG and chemical enhancers (P5) delivered the highest amount of lamotrigine (498.70 ± 43.15 μg/sq. cm) across porcine skin, exceeding the target for pediatric patients aged 2–12 years. This formulation demonstrated potential as a pediatric anti-epileptic patch, offering improved treatment options for epilepsy.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+- Treatment Options for Epilepsy
 featured: true
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: 'http://arxiv.org/pdf/1512.04133v1'
 url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: ''
 url_poster: ''
