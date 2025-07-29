@@ -211,8 +211,8 @@ awards:
     awarder: Central University of Gujarat
     icon: datacamp
     summary: |
-      <img width="237" height="157" alt="image" src="https://github.com/user-attachments/assets/8d874e0d-1dea-4c07-8e11-74dde0e936c4" />
-      <img width="215" height="293" alt="image" src="https://github.com/user-attachments/assets/f75d8cc7-9b47-4c73-b0e6-e974038933c5" />
+      <img width="900" height="400" alt="image" src="https://github.com/user-attachments/assets/8d874e0d-1dea-4c07-8e11-74dde0e936c4" />
+      <img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/f75d8cc7-9b47-4c73-b0e6-e974038933c5" />
   - title: Institute Cream Award (Rank 1)
     url: 
     certificate_url: 
