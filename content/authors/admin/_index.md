@@ -48,9 +48,13 @@ profiles:
     url: https://www.researchgate.net/profile/Meheli-Ghosh
 
 interests:
-  - Drug Delivery
-  - Drug Formulation
-  - Drug Design
+  - Formulation Design
+  - Drug product development
+  - Advanced Drug Delivery Systems
+  - Transdermal, oral, parenteral, and topical dosage forms
+  - Nanoparticle and microparticle-based drug delivery systems
+
+
 
 education:
   - area: Ph.D. Pharmaceutical Sciences
