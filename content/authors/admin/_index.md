@@ -90,17 +90,16 @@ education:
       - Immunology and Animal Biotechnology
       - Industrial Biotechnology + Plant Biotechnology
 work:
-  - position: Graduate Research Assistant
-    company_name: Mercer University
-    company_url: https://www.mercer.edu/
+  - position: Summer Research Fellow
+    company_name: CSIR-NEIST
+    company_url: https://www.neist.res.in/
     company_logo: ''
-    date_start: '2022-08-25'
-    date_end: ''
+    date_start: '2020-07-01'
+    date_end: '2020-09-31'
     summary: |
       Responsibilities include:
-      - Mentored several research elective students, summer interns, and junior Ph.D. students in the lab.
-      - Lead TA for the dispensing lab of PharmD consisting of the preparation of various pharmaceutical dosage forms and training PharmD students in a variety of lab techniques.
-      - Took lectures for Pharm.D. students and led multiple lab and industry collaborative projects with junior Ph.D. students.
+      - Worked under CSIR-NEIST SRTP program 2020 on Phytoremediation. 
+      - Recevied Grade A certification for excellent performance.
   - position: Research Assistant
     company_name: IIT-RAM
     company_url: https://iitram.ac.in/
@@ -112,16 +111,18 @@ work:
       - Worked on formulation and characterization of drug-loaded ionic liquids.
       - Wrote a grant proposal to the Department of Science and Technology, India on “Studying structure and properties of Metal and Metal Oxide Nanoparticles capped with nutraceutical molecule and its Biological Applications”.
       - Academic research, teaching, and management for undergraduate students.
-  - position: Summer Research Fellow
-    company_name: CSIR-NEIST
-    company_url: https://www.neist.res.in/
+  - position: Graduate Research Assistant
+    company_name: Mercer University
+    company_url: https://www.mercer.edu/
     company_logo: ''
-    date_start: '2020-07-01'
-    date_end: '2020-09-31'
+    date_start: '2022-08-25'
+    date_end: ''
     summary: |
       Responsibilities include:
-      - Worked under CSIR-NEIST SRTP program 2020 on Phytoremediation. 
-      - Recevied Grade A certification for excellent performance.
+      - Mentored several research elective students, summer interns, and junior Ph.D. students in the lab.
+      - Lead TA for the dispensing lab of PharmD consisting of the preparation of various pharmaceutical dosage forms and training PharmD students in a variety of lab techniques.
+      - Took lectures for Pharm.D. students and led multiple lab and industry collaborative projects with junior Ph.D. students.
+  
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
