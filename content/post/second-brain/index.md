@@ -1,7 +1,8 @@
 ---
 title: Follicular delivery of 4 phenylbutyric acid PLGA nanoparticles to mitigate chemical warfare agent-induced skin injury - A quality by design approach.
 summary: Using a QbD approach, 4-PBA-loaded PLGA nanoparticles were optimized for enhanced skin and follicular delivery.
-date: 2025-3-12
+date: 2025-01-24
+math: true
 authors:
   - admin
 tags:
