@@ -1,13 +1,10 @@
 ---
-title: scikit-learn
+title: Merck Pharmaceuticals
 date: 2023-10-26
-external_link: https://github.com/scikit-learn/scikit-learn
+external_link: 
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Microneedles
 ---
 
-scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.
-
+Fabricated drug-loaded microneedles for three-day transdermal delivery of palonosetron hydrochloride using a novel method of vacuum compression molding.
 <!--more-->
