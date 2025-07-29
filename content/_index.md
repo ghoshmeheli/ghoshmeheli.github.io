@@ -34,7 +34,8 @@ sections:
     content:
       title: '📚 My Research'
       subtitle: ''
-      text:  <img width="1599" height="507" alt="image" src="https://github.com/user-attachments/assets/c432b873-6e8a-49c3-894b-2d173651c5a3" />
+      text:  <img width="1205" height="368" alt="image" src="https://github.com/user-attachments/assets/e7481869-b476-4835-97ef-e9947df6f78e" />
+
 
     design:
       columns: '1'
