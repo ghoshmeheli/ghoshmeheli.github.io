@@ -1,6 +1,6 @@
 ---
 title: Fabrication of PVA Microneedles Using Vacuum Compression Molding for Three-Day Transdermal Delivery of Palonosetron Hydrochloride
-summary: Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!
+summary: We demonstrated the feasibility of VCM for fabricating drug-loaded microneedles with reproducible mechanical properties and enhanced transdermal delivery capabilities. 
 date: 2024-10-23
 authors:
   - admin
