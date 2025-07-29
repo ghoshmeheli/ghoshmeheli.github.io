@@ -1,7 +1,12 @@
 ---
 title: "Topical Foam for Simultaneous Treatment and Decontamination of Chemical Warfare Agents on Dermal Exposure"
 authors:
+- Sonalika Arup Bhattaccharjee
+- Mohammad Shajid Ashraf Junaid
 - admin
+- Ritesh Srivastava
+- Mohammad Athar
+- Ajay K. Banga
 date: "2025-04-07T00:00:00Z"
 doi: "https://doi.org/10.1208/s12249-025-03177-6"
 
