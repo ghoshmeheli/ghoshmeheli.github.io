@@ -223,6 +223,6 @@ awards:
 Ph.D. candidate in Pharmaceutical Sciences, with a strong focus on formulation and drug product development, backed by a solid foundation in biotechnology and nanotechnology. Experienced in developing a wide range of drug delivery systems through collaborative industry, NIH, and FDA-funded projects.
 Expertise includes formulation design, QbD-based optimization, in vitro testing, method development, and advanced data analysis. Proficient in HPLC/UPLC, rheology, microscopy, texture analysis, DLS, DSC, and FTIR.
 
-Academic path highlighted by an M.S. in Nanotechnology (University Gold Medalist) and a B.S. in Biotechnology, complemented by research internships at CSIR and UT Austin, building strengths in experimental planning, project execution, and cross-functional collaboration.
+Academic path highlighted by an M.S. in Nanotechnology (University Gold Medalist) and a B.S. in Biotechnology (Institute Rank 1), complemented by research internships at CSIR and UT Austin, building strengths in experimental planning, project execution, and cross-functional collaboration.
 
 Actively seeking formulation scientist opportunities in pharma or biotech to advance high-quality drug products across diverse delivery platforms. Open to new collaborations and professional connections.
