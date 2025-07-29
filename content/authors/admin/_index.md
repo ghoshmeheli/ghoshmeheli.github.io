@@ -58,8 +58,8 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: M.Sc. Nanotechnology (University Gold Medal)
-    institution: Central University of Gujarat
+  - area: M.Sc. Nanotechnology 
+    institution: Central University of Gujarat (University Gold Medal)
     date_start: '2019-08-10'
     date_end: '2021-07-31'
     summary: |
@@ -73,8 +73,8 @@ education:
       - Nanomedicines
       - Nanocarriers for Drug and Gene Delivery
       - Nanotechnology for Tissue Engineering
-  - area: B.Sc. Biotechnology (Institue Rank 1)
-    institution: Bangalore University
+  - area: B.Sc. Biotechnology 
+    institution: Bangalore University (Institue Rank 1)
     date_start: '2016-08-25'
     date_end: ''
     summary: |
