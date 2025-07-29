@@ -3,7 +3,7 @@ title: "Development of 4-phenylbutyric acid microsponge gel formulations for the
 authors:
 - Sharvari M. Kshirsagar
 - Nethra Viswaroopan
-- Meheli Ghosh
+- admin
 - Mohammad Shajid Ashraf Junaid
 - Safiya Haque
 - Jasim Khan
