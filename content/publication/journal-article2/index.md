@@ -2,7 +2,6 @@
 title: "Sustained delivery of 4-phenylbutyric acid via chitosan nanoparticles in foam for decontamination and treatment of lewisite-mediated skin injury"
 authors:
 - admin
-- Meheli Ghosh
 - Nethra Viswaroopan
 - Sharvari M. Kshirsagar
 - Jasim Khan
@@ -24,7 +23,7 @@ publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "International Journal of Pharmaceutics"
-publication_short: ""
+publication_short: "IJP"
 
 abstract: Lewisite, a chemical warfare agent, induces severe skin injury by oxidative stress and endoplasmic reticulum (ER) dysfunction, necessitating innovative antidote strategies. This study developed chitosan nanoparticle-loaded foam formulations for rapid skin decontamination and sustained topical delivery of 4-phenylbutyric acid (4-PBA), an ER stress-reducing chaperone. Nanoparticles were synthesized via ionic gelation using low (LMW) and medium molecular weight (MMW) chitosan. The optimized formulations, N31 (LMW) and N35 (MMW), achieved drug loadings of 5.04 % and 10.09 % w/w, particle sizes of 141.88 +/ 26.31 nm and 176.10 +/ 36.97 nm, monodisperse distributions (PDI < 0.3), high entrapment efficiency (>93 %) and good stability with zeta potential of −16.67 mV and −19.37 mV, respectively. Incorporation into foam enabled both effective decontamination (>70 % efficiency) and sustained 4-PBA delivery. In vitro release studies demonstrated sustained drug release over 24 h. 
 
@@ -33,7 +32,7 @@ summary: This study developed chitosan nanoparticle-loaded foam formulations for
 
 tags:
 - Nanoparticle-loaded Foam Formulations
-featured: true
+featured: false
 
 # links:
 # - name: ""
