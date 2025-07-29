@@ -1,137 +1,52 @@
 ---
-title: 👩🏼‍🏫 Teach academic courses
-summary: Embed videos, podcasts, code, LaTeX math, and even test students!
-date: 2023-10-24
+title: Sustained Delivery of 4-Phenylbutyric Acid through Chitosan Nanoparticles in Foam Formulation for Decontamination and Treatment of Chemical Warfare Agent-Induced Skin Injury
+summary: We developed a novel dual-action topical foam with 4-PBA-loaded chitosan nanoparticles that combines rapid arsenical decontamination with sustained antidote delivery for lewisite skin injuries.
+date: 2025-01-24
 math: true
 authors:
   - admin
 tags:
-  - Hugo
-  - Hugo Blox Builder
-  - Markdown
 image:
-  caption: 'Embed rich media such as videos and LaTeX math'
+  caption: 'Figure 1: 1(a,b) Results from In vitro release studies (n=4); in dermatomed human skin; 2(a,b) Results from IVPT studies (n=4); Permeation profile of 4-PBA through chitosan  nanoparticles in Foam (F39) dermatomed human skin; (3) Results from Decontamination studies (n=4);  One-way ANOVA with Tukey’s post hoc analysis; * (p ≤  0.05);  *** (p ≤ 0.001)'
 ---
 
-[Hugo Blox Builder](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.
+Meheli Ghosh 1, Nethra Viswaroopan 1, Sharvari Kshirsagar 1, Jasim khan 2, Ritesh K. Srivastava 2, Mohammad Athar 2, Ajay K. Banga 1
+1.	Center for Drug Delivery Research, Department of Pharmaceutical Sciences, College of Pharmacy, Mercer University, Atlanta, GA 30341, USA
+2.	Department of Dermatology, University of Alabama at Birmingham, Birmingham, AL 35294-0019, USA\
 
 **Embed videos, podcasts, code, LaTeX math, and even test students!**
 
-On this page, you'll find some examples of the types of technical content that can be rendered with Hugo Blox.
+## Purpose:
 
-## Video
-
-Teach your course by sharing videos with your students. Choose from one of the following approaches:
-
-**Youtube**:
-
-    {{</* youtube D2vj0WcvH5c */>}}
-
-{{< youtube D2vj0WcvH5c >}}
-
-**Bilibili**:
-
-    {{</* bilibili BV1WV4y1r7DF */>}}
-
-{{< bilibili BV1WV4y1r7DF >}}
-
-**Video file**
-
-Videos may be added to a page by either placing them in your `assets/media/` media library or in your [page's folder](https://gohugo.io/content-management/page-bundles/), and then embedding them with the _video_ shortcode:
-
-    {{</* video src="my_video.mp4" controls="yes" */>}}
-
-## Podcast
-
-You can add a podcast or music to a page by placing the MP3 file in the page's folder or the media library folder and then embedding the audio on your page with the _audio_ shortcode:
-
-    {{</* audio src="ambient-piano.mp3" */>}}
-
-Try it out:
-
-{{< audio src="ambient-piano.mp3" >}}
-
-## Test students
-
-Provide a simple yet fun self-assessment by revealing the solutions to challenges with the `spoiler` shortcode:
-
-```markdown
-{{</* spoiler text="👉 Click to view the solution" */>}}
-You found me!
-{{</* /spoiler */>}}
-```
-
-renders as
-
-{{< spoiler text="👉 Click to view the solution" >}} You found me 🎉 {{< /spoiler >}}
-
-## Math
-
-Hugo Blox Builder supports a Markdown extension for $\LaTeX$ math. Enable math by setting the `math: true` option in your page's front matter, or enable math for your entire site by toggling math in your `config/_default/params.yaml` file:
-
-```yaml
-features:
-  math:
-    enable: true
-```
-
-To render _inline_ or _block_ math, wrap your LaTeX math with `$...$` or `$$...$$`, respectively.
-
-Example **math block**:
-
-```latex
-$$
-\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}
-$$
-```
-
-renders as
-
-$$\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}$$
-
-Example **inline math** `$\nabla F(\mathbf{x}_{n})$` renders as $\nabla F(\mathbf{x}_{n})$.
-
-Example **multi-line math** using the math linebreak (`\\`):
-
-```latex
-$$f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} & \text{if }k=1, \\
-1-p_{0}^{*} & \text{if }k=0.\end{cases}$$
-```
-
-renders as
-
-$$
-f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} & \text{if }k=1, \\
-1-p_{0}^{*} & \text{if }k=0.\end{cases}
-$$
-
-## Code
-
-Hugo Blox Builder utilises Hugo's Markdown extension for highlighting code syntax. The code theme can be selected in the `config/_default/params.yaml` file.
+Lewisite, an arsenical chemical warfare agent, induces severe skin injury through endoplasmic reticulum (ER) stress and inflammation following accidental or intentional exposure. Due to the inadequacy of current treatments, there is an urgent need for a novel antidote. This study repurposes 4-phenylbutyric acid (4-PBA), an FDA-approved chemical chaperone for urea cycle disorders, as a promising antidote that mitigates ER stress and inflammation by inhibiting the unfolded protein response (UPR) pathway, thereby facilitating repair of lewisite-induced skin injuries. 
+However, 4-PBA’s rapid transdermal absorption limits its sustained therapeutic effect at the injury site. To address this, we developed a novel topical foam containing 4-PBA-loaded chitosan nanoparticles (NPs), designed to provide dual action: rapid decontamination of arsenicals from the skin, followed by controlled local antidote delivery. This dual-function approach aims to significantly enhance therapeutic efficacy against lewisite-induced skin injuries.
 
 
-    ```python
-    import pandas as pd
-    data = pd.read_csv("data.csv")
-    data.head()
-    ```
+## Methods:
+Chitosan NPs were synthesized via ionic gelation using low (LMW, 50–190 kDa) and medium molecular weight (MMW, 190–310 kDa) chitosan. Critical formulation parameters, drug to polymer ratio (1:2 to 2:1), Pentasodium tripolyphosphate (TPP) crosslinker concentration (0.04–0.12% w/v), TPP injection rate (0.5–2 mL/min), and stirring speed (500–800 rpm), were systematically optimized. Chitosan dissolved in acetic acid (pH 4.5) was combined with 4-PBA (50 mg/mL in ethanol) under controlled stirring (650 rpm), followed by dropwise TPP addition to induce NP formation. NPs were washed, lyophilized, and characterized for size, polydispersity index (PDI), zeta potential, drug loading (HPLC), and entrapment efficiency (Table.1). Optimized formulations (N31: LMW; N35: MMW) were incorporated into a non-propellant topical foam (F39), comprising 15% Tween 20, 10% ethanol, 5% oleic acid, and 70% propylene glycol, designed for effective lewisite decontamination from skin with easy application that requires no rubbing.
+In vitro release testing (IVRT) was performed using a dialysis membrane (14,000 kDa) to assess the release kinetics of 4-PBA from each formulation. In vitro permeation testing (IVPT) utilized Franz diffusion cells with dermatomed human (n=4) to quantify cumulative 4-PBA permeation over 24 hours using HPLC. NPs in PBS or F39 were compared to free 4-PBA controls. Lag time for drug permeation was calculated. Decontamination efficiency was evaluated using phenyl arsine oxide (PAO) as a lewisite surrogate, and the impact of PAO exposure on subsequent 4-PBA permeation was assessed. Nanoparticles’ stability under accelerated conditions (40°C/75% RH and 25°C/60% RH) was also evaluated. Statistical significance was assessed using one-way ANOVA with Tukey’s post hoc test (p<0.05).
 
-renders as
 
-```python
-import pandas as pd
-data = pd.read_csv("data.csv")
-data.head()
-```
+## Results:
 
-## Inline Images
+Optimized nanoparticles (N31 and N35) were spherical with 141.88 ± 26.31 nm and 176.10 ± 36.97 nm size, respectively, monodisperse distribution (PDI <0.3), and moderate negative zeta potentials (N31: -16.67 mV; N35: -19.37 mV), indicating good colloidal stability. Drug loading was higher for MMW chitosan (N35: 10.09% w/w) than LMW (N31: 5.04% w/w), with both demonstrating high entrapment efficiency (>93%). FTIR analysis confirmed the preservation of 4-PBA’s major functional groups and indicated strong drug-polymer interactions, while differential scanning calorimetry (DSC) showed amorphization of 4-PBA within the nanoparticle matrix, supporting sustained release. Stability studies revealed no significant drug loss or chemical degradation over 30 days at room temperature.
+IVRT demonstrated sustained release from both N31 and N35 nanoparticles, with N35 releasing 65.6% and N31 releasing 18.1% of encapsulated 4-PBA over 24 hours, compared to 72.0% from free 4-PBA in foam. IVPT revealed that free 4-PBA in foam F39 achieved the highest cumulative permeation (348.10 ± 5.37 µg/cm² at 24 h), while N35 in F39 delivered 214.35 ± 16.6 µg/cm² (38.4% reduction) and N31 in F39 delivered 64.90 ± 6.89 µg/cm² (81.35% reduction). Both NPs significantly prolonged lag time (N35: 4.89 ± 0.70 h; N31: 7.90 ± 0.94 h) compared to free drug (0.93 ± 0.27 h). The foam vehicle itself did not impede drug permeation, as the cumulative 4-PBA permeation in the PBS control (280.64 ± 30.69 µg/cm²) was not statistically different from that of 4-PBA in F39. This indicates that the observed sustained permeation was attributable to the incorporation of 4-PBA into nanoparticles, rather than the foam vehicle. Decontamination studies demonstrated that foam F39 and NP-loaded foams maintained >70% decontamination efficiency, with no significant reduction upon NP incorporation. In PAO-exposed skin, both N35 and N31 foams retained sustained permeation (N35: 158.54 ± 53.93 µg/cm²; N31: 138.25 ± 14.72 µg/cm² at 24 h).
 
-```go
-{{</* icon name="python" */>}} Python
-```
 
-renders as
+## Conclusion:
+We developed a novel dual-action topical foam with 4-PBA-loaded chitosan nanoparticles that combines rapid arsenical decontamination with sustained antidote delivery for lewisite skin injuries. This innovative formulation overcomes current treatment limitations by controlling drug release and maintaining high decontamination efficiency, representing a significant advance toward effective chemical threat countermeasures.
 
-{{< icon name="python" >}} Python
+## Funding:
+Supported by NIH/NIAMS U01AR078544 to M.A. The sponsors had no role in study design, data collection, analysis, or interpretation.
+
+
+## References:
+
+1.	Ghosh, M. et al. Sustained delivery of 4-phenylbutyric acid via chitosan nanoparticles in foam for decontamination and treatment of lewisite-mediated skin injury. Int J Pharm 682, 125928 (2025).
+2.	Kshirsagar, S. M. et al. Development of 4-phenylbutyric acid microsponge gel formulations for the treatment of lewisite-mediated skin injury. Drug Deliv Transl Res (2024) doi:10.1007/s13346-024-01620-y.
+3.	Srivastava, R. K. et al. Defining cutaneous molecular pathobiology of arsenicals using phenylarsine oxide as a prototype. Sci Rep 6, (2016).
+
+
+
 
 ## Did you find this page helpful? Consider sharing it 🙌
