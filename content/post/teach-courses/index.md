@@ -10,11 +10,11 @@ image:
   caption: 'Figure 1: 1(a,b) Results from In vitro release studies (n=4); in dermatomed human skin; 2(a,b) Results from IVPT studies (n=4); Permeation profile of 4-PBA through chitosan  nanoparticles in Foam (F39) dermatomed human skin; (3) Results from Decontamination studies (n=4);  One-way ANOVA with Tukey’s post hoc analysis; * (p ≤  0.05);  *** (p ≤ 0.001)'
 ---
 
-Meheli Ghosh 1, Nethra Viswaroopan 1, Sharvari Kshirsagar 1, Jasim khan 2, Ritesh K. Srivastava 2, Mohammad Athar 2, Ajay K. Banga 1
+**Meheli Ghosh 1, Nethra Viswaroopan 1, Sharvari Kshirsagar 1, Jasim khan 2, Ritesh K. Srivastava 2, Mohammad Athar 2, Ajay K. Banga 1**
 1.	Center for Drug Delivery Research, Department of Pharmaceutical Sciences, College of Pharmacy, Mercer University, Atlanta, GA 30341, USA
 2.	Department of Dermatology, University of Alabama at Birmingham, Birmingham, AL 35294-0019, USA\
 
-**Embed videos, podcasts, code, LaTeX math, and even test students!**
+*We developed a novel dual-action topical foam with 4-PBA-loaded chitosan nanoparticles that combines rapid arsenical decontamination with sustained antidote delivery for lewisite skin injuries.*
 
 ## Purpose:
 
