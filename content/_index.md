@@ -34,7 +34,8 @@ sections:
     content:
       title: '📚 My Research'
       subtitle: ''
-      text:  I focus on addressing formulation and drug product development challenges using science-based, data-driven approaches. My work spans various delivery systems—including nanoparticles, polymeric carriers, microneedles, emulsions, and patches—with an emphasis on optimizing performance, stability, and scalability. I tailor formulations to enhance, sustain, or target drug delivery based on therapeutic needs and administration routes. Through federally funded and industry-collaborative projects, I’ve contributed to preformulation studies, QbD-driven optimization, analytical method development, and in vitro evaluation. My experience includes both small molecules and advanced delivery platforms, always grounded in practical problem-solving, scientific rigor, and strong documentation. I welcome opportunities to collaborate on technically challenging, cross-functional projects.
+      text:  <img width="1599" height="507" alt="image" src="https://github.com/user-attachments/assets/c432b873-6e8a-49c3-894b-2d173651c5a3" />
+
     design:
       columns: '1'
   - block: collection
