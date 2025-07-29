@@ -6,10 +6,10 @@ event_url:
 
 location: Mercer University, College of Pharmacy
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
+  street: 3001 Mercer University Dr
+  city: Atlanta
+  region: GA
+  postcode: '30341'
   country: United States
 
 summary: Formulation strategies for enhanced, sustained, and targeted skin delivery of actives.
