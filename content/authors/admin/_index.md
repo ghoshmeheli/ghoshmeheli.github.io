@@ -196,7 +196,6 @@ awards:
     icon: 
     summary: |
      <img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/0fa24e5f-8a02-4999-afdf-bc3426aef5fc" />
-
   - title: Love of Learning Award
     url: 
     date: '2024-07-01'
@@ -205,7 +204,6 @@ awards:
     summary: |
       <img width="468" height="443" alt="image" src="https://github.com/user-attachments/assets/168d2122-5d26-441a-bec2-cd8e4799c9fa" />
       <img width="271" height="193" alt="image" src="https://github.com/user-attachments/assets/cdd7230c-364e-49cc-b030-cf5054a1c24e" />
-
   - title: University Gold Medal
     url: 
     certificate_url: 
@@ -215,8 +213,7 @@ awards:
     summary: |
       <img width="237" height="157" alt="image" src="https://github.com/user-attachments/assets/8d874e0d-1dea-4c07-8e11-74dde0e936c4" />
       <img width="215" height="293" alt="image" src="https://github.com/user-attachments/assets/f75d8cc7-9b47-4c73-b0e6-e974038933c5" />
-
- - title: Institute Cream Award (Rank 1)
+  - title: Institute Cream Award (Rank 1)
     url: 
     certificate_url: 
     date: '2019-08-02'
