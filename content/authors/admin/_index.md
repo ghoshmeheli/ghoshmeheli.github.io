@@ -34,12 +34,6 @@ profiles:
   - icon: at-symbol
     url: 'mailto:Meheli.Ghosh@live.mercer.edu'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/meheli-ghosh-743924174
   - icon: academicons/google-scholar
@@ -59,100 +53,126 @@ interests:
 education:
   - area: Ph.D. Pharmaceutical Sciences
     institution: Mercer University
-    date_start: 2016-01-01
+    date_start: 2022-08-15
     date_end: 2020-12-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on _Formulation strategies for enhanced, sustained, and targeted skin delivery of actives_. Supervised by [Prof Ajay K. Banga](https://pharmacy.mercer.edu/faculty/banga/). Presented papers at 15+ posters at various national and international conferences with the contributions being published in top-tier Pharmaceutical Sciences journals (e.g., JDDST, IJP, DDTR, EPJ, IJBM, etc.).
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: M.Sc. Nanotechnology 
+  - area: M.Sc. Nanotechnology (University Gold Medal)
     institution: Central University of Gujarat
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2019-08-10
+    date_end: 2021-07-31
     summary: |
-      GPA: 3.8/4.0
+      GPA: 10/0/10.0
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: B.Sc. Artificial Intelligence
+      - Physics and Chemistry of Nanomaterials
+      - Synthesis and Characterziation of Nanomaterials
+      - Nanotoxicology and Biosafety
+      - Nanofabrication and Nanotechnologies
+      - Nanomedicines
+      - Nanocarriers for Drug and Gene Delivery
+      - Nanotechnology for Tissue Engineering
+  - area: B.Sc. Biotechnology (Institue Rank 1)
     institution: Bangalore University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2016-08-25
+    date_end: 2019-06-31
     summary: |
-      GPA: 3.4/4.0
+      GPA: 8.21/10.0
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Cell Biology and Biochemistry (I, II, II)
+      - Genetics I, II, III, and IV
+      - Microbiology and Biostatistic
+      - Genetic Engineering
+      - Immunology and Animal Biotechnology
+      - Industrial Biotechnology + Plant Biotechnology
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Research Assistant
+    company_name: IIT-RAM
+    company_url: https://iitram.ac.in/
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2021-07-01
+    date_end: 2022-03-31
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
+      - Worked on formulation and characterization of drug-loaded ionic liquids.
+      - Wrote a grant proposal to the Department of Science and Technology, India on “Studying structure and properties of Metal and Metal Oxide Nanoparticles capped with nutraceutical molecule and its Biological Applications”.
+      - Academic research, teaching, and management for undergraduate students.
+  - position: Summer Research Fellow
+    company_name: CSIR-NEIST
+    company_url: https://www.neist.res.in/
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2020-07-01
+    date_end: 2020-09-31
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Worked under CSIR-NEIST SRTP program 2020 on Phytoremediation. 
+      - Recevied Grade A certification for excellent performance.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: Drug product development and formulation design
         description: ''
-        percent: 80
+        percent: 100
         icon: code-bracket
-      - name: Data Science
+      - name: Nanoparticle and microparticle-based drug delivery systems
+        description: ''
+        percent: 100
+        icon: code-bracket
+      - name: Transdermal, oral, parenteral, and topical dosage forms
+        description: ''
+        percent: 100
+        icon: code-bracket
+      - name: Preformulation, excipient compatibility, and stability studies
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
+      - name: Analytical method development and characterization
         description: ''
-        percent: 40
+        percent: 100
+        icon: chart-bar
+      - name:  In vitro evaluation (dissolution, release, permeation)
+        description: ''
+        percent: 100
+        icon: chart-bar
+      - name: QbD and DoE-based formulation optimization
+        description: ''
+        percent: 100
+        icon: circle-stack
+      - name: Translational research bridging lab-scale innovation to clinical and commercial relevance
+        description: ''
+        percent: 100
         icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Hiking and Dancing
+        description: ''
+        percent: 70
+        icon: person-simple-walk
+      - name: Animation
         description: ''
         percent: 60
-        icon: person-simple-walk
-      - name: Cats
+        icon: cat
+      - name: Technical Event Organization
         description: ''
         percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
         icon: camera
 
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Bengali
+    percent: 100
+  - name: Hindi
+    percent: 80
 
 # Awards.
 #   Add/remove as many awards below as you like.
