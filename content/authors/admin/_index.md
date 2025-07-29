@@ -197,24 +197,35 @@ awards:
     summary: |
      <img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/0fa24e5f-8a02-4999-afdf-bc3426aef5fc" />
 
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+  - title: Love of Learning Award
+    url: 
+    date: '2024-07-01'
+    awarder: Phi Kappa Phi Honor Society
+    icon: 
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
+      <img width="468" height="443" alt="image" src="https://github.com/user-attachments/assets/168d2122-5d26-441a-bec2-cd8e4799c9fa" />
+      <img width="271" height="193" alt="image" src="https://github.com/user-attachments/assets/cdd7230c-364e-49cc-b030-cf5054a1c24e" />
+
+  - title: University Gold Medal
+    url: 
+    certificate_url: 
+    date: '2022-05-21'
+    awarder: Central University of Gujarat
     icon: datacamp
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      <img width="237" height="157" alt="image" src="https://github.com/user-attachments/assets/8d874e0d-1dea-4c07-8e11-74dde0e936c4" />
+      <img width="215" height="293" alt="image" src="https://github.com/user-attachments/assets/f75d8cc7-9b47-4c73-b0e6-e974038933c5" />
+
+ - title: Institute Cream Award (Rank 1)
+    url: 
+    certificate_url: 
+    date: '2019-08-02'
+    awarder: Bangalore University
+    icon: datacamp
+    summary: |
+      <img width="194" height="124" alt="image" src="https://github.com/user-attachments/assets/ae7645d0-fae8-4a9b-9db1-db97170cb225" />
+
+
 ---
 
 ## About Me
