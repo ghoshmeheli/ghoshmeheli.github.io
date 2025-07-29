@@ -1,14 +1,16 @@
 ---
-title: "Sustained delivery of 4-phenylbutyric acid via chitosan nanoparticles in foam for decontamination and treatment of lewisite-mediated skin injury"
+title: "An example journal article"
 authors:
 - admin
-- Nethra Viswaroopan
+- Robert Ford
 author_notes:
-date: "2025-09-15T00:00:00Z"
+- "Equal contribution"
+- "Equal contribution"
+date: "2015-09-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-09-15T00:00:00Z"
+publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -16,23 +18,23 @@ publishDate: "2025-09-15T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "International Journal of Pharmaceutics"
-publication_short: "IJP"
+publication: "*Journal of Source Themes, 1*(1)"
+publication_short: ""
 
-abstract: Lewisite, a chemical warfare agent, induces severe skin injury by oxidative stress and endoplasmic reticulum (ER) dysfunction, necessitating innovative antidote strategies. This study developed chitosan nanoparticle-loaded foam formulations for rapid skin decontamination and sustained topical delivery of 4-phenylbutyric acid (4-PBA), an ER stress-reducing chaperone. Nanoparticles were synthesized via ionic gelation using low (LMW) and medium molecular weight (MMW) chitosan. The optimized formulations, N31 (LMW) and N35 (MMW), achieved drug loadings of 5.04 % and 10.09 % w/w, particle sizes of 141.88 +/ 26.31 nm and 176.10 +/ 36.97 nm, monodisperse distributions (PDI < 0.3), high entrapment efficiency (>93 %) and good stability with zeta potential of −16.67 mV and −19.37 mV, respectively. Incorporation into foam enabled both effective decontamination (>70 % efficiency) and sustained 4-PBA delivery. In vitro release studies demonstrated sustained drug release over 24 h. 
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 # Summary. An optional shortened abstract.
-summary: This study developed chitosan nanoparticle-loaded foam formulations for rapid decontamination and sustained 4-PBA delivery to treat Lewisite-induced skin injury. Optimized nanoparticles (N35) showed high stability, reduced drug permeation, and effective skin retention. In vivo, the N35 + NAC formulation significantly protected against arsenical-induced injury and inflammation, demonstrating strong therapeutic potential and translational feasibility for chemical burn treatment.
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Nanoparticle-loaded Foam Formulations
+- Source Themes
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.sciencedirect.com/science/article/pii/S0378517325007653
-url_code: ''
+url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -68,6 +70,9 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 
 {{% callout note %}}
 Create your slides in Markdown - click the *Slides* button to check out the example.
+{{% /callout %}}
+
+Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
 {{% /callout %}}
 
 Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
