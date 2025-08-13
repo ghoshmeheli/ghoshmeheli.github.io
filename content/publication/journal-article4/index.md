@@ -1,16 +1,20 @@
 ---
-title: "An example journal article"
+title: "Phenylboronic acid conjugated PAMAM G4 dendrimers augmented usnic acid delivery to gastric cancer cells"
 authors:
+- Ashok Kumar Jangid
+- Raghu Solanki
 - admin
-- Robert Ford
+- Mahima Jadav
+- Sunita Patel
+- Deep Pooja
+- Hitesh Kulhari
 author_notes:
 - "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+date: "2023-06-23T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2023-06-23T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -21,20 +25,20 @@ publication_types: ["article-journal"]
 publication: "*Journal of Source Themes, 1*(1)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Here we report on the synthesis, characterization, and biological evaluation of Siglec’s targeted G4 PAMAM dendrimers loaded with usnic acid (UA). Siglec's targeted G4 dendrimers were obtained by conjugation of 4-carboxy phenylboronic acid (PBA) to the periphery of the G4 PAMAM dendrimer (PBA-PAMAM). UA-loaded PBA-PAMAM dendrimers (UA@PBA-PAMAM) showed average particle size (18 nm) without any sign of aggregation with amorphous nature, stability of the drug, and PBA-mediated anticancer efficacy. The UA@PBA-PAMAM dendrimer formulation showed a site-specific drug release profile. After 12 h, 17.6% and 95.7% of UA was released from UA@PBA-PAMAM dendrimer formulation in pH 7.4 and pH 5.0, respectively. In vitro anticancer results suggested the no cytotoxicity of G4 dendrimers after PBA conjugation. The cell viability of AGS cells was observed as 88.9 ± 0.7% (12 h) and 50.4 ± 1.9% (24 h) after pure UA treatment and 37.3 ± 0.6% (12 h) and 14.4% ± 1.2 (24 h) after treatment with UA@PBA-PAMAM. The pure UA had IC50 values of 44.9 ± 3.1 μg/mL (for 12 h) and 8.2 ± 1.1 μg/mL (for 24 h) while UA@PBA-PAMAM had an IC50 value of 8.4 ± 0.3 μg/mL (for 12 h) and 2.7 ± 0.4 μg/mL (for 24 h) in AGS cells. As a result of cytotoxicity studies, the dendrimer formulation UA@PBA-PAMAM maintained its effectiveness and was able to produce a long-term anticancer effect over time compared to the pure UA dose. The PBA-PAMAM dendrimer also significantly enhanced the cellular internalization in AGS gastric cancer cells. The new PBA-PAMAM design appears to be suitable nanocarriers for the UA to deliver gastric cancer cells.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: UA-loaded PBA-PAMAM dendrimers showed pH-responsive release, enhanced AGS cell uptake, and superior anticancer efficacy versus pure UA, indicating suitability as targeted gastric cancer nanocarriers.
 
 tags:
-- Source Themes
+- Siglec’s targeted G4 PAMAM dendrimers
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S0014305723002562
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
