@@ -63,7 +63,7 @@ education:
     date_start: '2019-08-10'
     date_end: '2021-07-31'
     summary: |
-      GPA: 10/0/10.0
+      GPA: 10.0/10.0
 
       Courses included:
       - Physics and Chemistry of Nanomaterials
@@ -85,6 +85,7 @@ education:
       - Genetics I, II, III, and IV
       - Microbiology and Biostatistic
       - Genetic Engineering
+      - Bioinformatics
       - Immunology and Animal Biotechnology
       - Industrial Biotechnology + Plant Biotechnology
 work:
