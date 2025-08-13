@@ -164,11 +164,11 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking and Dancing
+      - name: Dancing/Travelling
         description: ''
         percent: 70
         icon: person-simple-walk
-      - name: Animation
+      - name: Puzzle-solving/Brain games
         description: ''
         percent: 60
         icon: cat
