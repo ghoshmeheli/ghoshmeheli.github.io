@@ -213,22 +213,6 @@ awards:
     summary: |
       <img width="900" height="400" alt="image" src="https://github.com/user-attachments/assets/8d874e0d-1dea-4c07-8e11-74dde0e936c4" />
       <img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/f75d8cc7-9b47-4c73-b0e6-e974038933c5" />
-  - title: Best Poster Presentation
-    url: 
-    certificate_url: 
-    date: '2023-05-21'
-    awarder: Controlled Release Society
-    icon: 
-    summary: |
-        <img width="444" height="344" alt="image" src="https://github.com/user-attachments/assets/f56d85b8-47a2-4ccf-9ce8-fa8e64661bef" />
-   - title: Best Poster Award
-    url: 
-    certificate_url: 
-    date: '2024-05-21'
-    awarder: Center for Dermal Research
-    icon: 
-    summary: |
-        <img width="394" height="508" alt="image" src="https://github.com/user-attachments/assets/45839009-07ae-436e-9f58-29b30891c8ee" />
   - title: Institute Cream Award (Rank 1)
     url: 
     certificate_url: 
