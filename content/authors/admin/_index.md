@@ -221,6 +221,22 @@ awards:
     icon: datacamp
     summary: |
       <img width="194" height="124" alt="image" src="https://github.com/user-attachments/assets/ae7645d0-fae8-4a9b-9db1-db97170cb225" />
+  - title: Best Poster Presentation
+    url: 
+    certificate_url: 
+    date: '2023-05-21'
+    awarder: Controlled Release Society
+    icon: 
+    summary: |
+        <img width="444" height="344" alt="image" src="https://github.com/user-attachments/assets/f56d85b8-47a2-4ccf-9ce8-fa8e64661bef" />
+  - title: Best Poster Award
+    url: 
+    certificate_url: 
+    date: '2024-05-21'
+    awarder: Center for Dermal Research
+    icon: 
+    summary: |
+        <img width="394" height="508" alt="image" src="https://github.com/user-attachments/assets/45839009-07ae-436e-9f58-29b30891c8ee" />
 
 
 ---
