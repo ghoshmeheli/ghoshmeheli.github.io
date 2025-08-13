@@ -1,157 +1,50 @@
 ---
-title: 📈 Communicate your results effectively with the best data visualizations
-summary: Use popular tools such as Plotly, Mermaid, and data frames.
-date: 2023-10-25
+title: Developing and Evaluating a Transdermal Patch of Lamotrigine for Potential Epilepsy Treatment
+summary: We develop and evaluate a transdermal delivery system (TDS) for lamotrigine, an anti-epileptic drug.
+date: 2023-04-25
 authors:
   - admin
 tags:
-  - Hugo
-  - Hugo Blox
-  - Markdown
+  - Epilepsy
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+  caption: 'Graphical abstract: an overview of the aim, objectives, methodology, and results of the study'
 ---
 
-Hugo Blox is designed to give technical content creators a seamless experience. You can focus on the content and Hugo Blox handles the rest.
+**Meheli Ghosh 1, and Ajay K. Banga 1**
 
-Use popular tools such as Plotly, Mermaid, and data frames.
+1. Center for Drug Delivery and Research, Department of Pharmaceutical Sciences, College of Pharmacy, Mercer University, Atlanta, GA 30341, USA
 
-## Charts
+## Purpose: 
 
-Hugo Blox supports the popular [Plotly](https://plot.ly/) format for interactive data visualizations. With Plotly, you can design almost any kind of visualization you can imagine!
+Epilepsy affects around 1% of the world's population and is one of the most common neurological disorders. As a first-line treatment for epilepsy, lamotrigine has shown promising results. However, it is currently only available in oral dosage form, which poses several limitations such as polypharmacy, polyphagia, poor patient compliance, and adverse systemic effects. To overcome these challenges and provide a more effective and convenient treatment option, a transdermal delivery system (TDS) was investigated. 
 
-Save your Plotly JSON in your page folder, for example `line-chart.json`, and then add the `{{</* chart data="line-chart" */>}}` shortcode where you would like the chart to appear.
+The TDS can potentially reduce frequent dosing and minimize systemic side effects, thereby increasing patient compliance. Our objective is to develop a matrix-type transdermal patch that can deliver lamotrigine continuously for three days, which would offer an effective and convenient treatment option for epilepsy.
 
-Demo:
+## Methods: 
 
-{{< chart data="line-chart" >}}
+In this study, we conducted a comprehensive investigation to enhance the transdermal delivery of lamotrigine. Initially, we screened various chemical enhancers (45% dimethyl sulfoxide (DMSO), 10% oleyl alcohol, 20% oleic acid, and 25% isopropyl myristate (IPM). In addition, we tested combinations of chemical enhancers, including 10% oleyl alcohol with 5% oleic acid and 10% oleyl alcohol with 10% oleic acid) to compare their efficacy in promoting transdermal delivery of lamotrigine compared to passive permeation from propylene glycol (PG) across dermatomed porcine ear skin. Subsequently, we formulated (Figure.1) and evaluated a transdermal delivery system (TDS) utilizing acrylate and polyisobutylene (PIB) as pressure-sensitive adhesives, along with chemical enhancers. Thereafter different PIB patch thicknesses (200 GSM and 400 GSM) and combinations (with and without propylene glycol) were analyzed for delivery efficiency of lamotrigine across dermatomed porcine ear skin. Several patch parameters, including drying time, release liner, backing membrane, and drug content, were optimized to ensure successful patch formulation. The patches were characterized for peel adhesion, tack testing, and shear strength. The drug permeation studies were performed using in-vitro permeation testing, and the delivered amount of lamotrigine was quantified using a validated HPLC method. Statistical differences between groups were determined using a one-way ANOVA test (p <0.05).
 
-You might also find the [Plotly JSON Editor](http://plotly-json-editor.getforge.io/) useful.
 
-## Diagrams
+## Results: 
 
-Hugo Blox supports the _Mermaid_ Markdown extension for diagrams.
+The Passive delivery of lamotrigine through PG was found to be insufficient (23.36 ± 5.6 µg/sq.cm for 72 hours). However, the use of chemical enhancers, both alone and in combination, resulted in a significant increase in drug delivery, with the highest delivery achieved by a synergistic effect of 10% oleyl alcohol with 5% oleic acid (3096.04 ± 275 µg/sq.cm) over a period of three days exceeding the desired therapeutic dose.
+Among the different patch formulations (acrylate, PIB, and PIB incorporated with PG) tested, the PIB patch with 200 GSM thickness, either with or without incorporation of PG, delivered higher amounts of lamotrigine compared to the 200 GSM acrylate patch. The PIB patch incorporated with PG delivered the highest amount of lamotrigine 162.8 ± 78 µg/sq.cm over 72 hours. However, these patches failed to achieve the desired therapeutic dose level for three days. To address this issue, new formulations were prepared using a 400 GSM thickness PIB patch, with and without the incorporation of PG. All the formulated patches were subjected to various characterization techniques and the results were optimal as summarized in Table.1.
+The PIB patch with 400 GSM thickness, incorporating PG, lamotrigine, and chemical enhancers, delivered the highest amount (Figure.2) of lamotrigine across the dermatomed porcine skin for 72 hours (498.70± 43.15 µg/sq.cm). This delivery level was significantly higher than passive permeation and exceeded the desired target delivery for pediatric patients with epilepsy aged between 2-12 years, indicating its potential use as a pediatric anti-epileptic patch.
 
-An example **flowchart**:
+<img width="1296" height="677" alt="image" src="https://github.com/user-attachments/assets/b8997753-65ba-4e97-abb2-df97156d4064" />
 
-    ```mermaid
-    graph TD
-    A[Hard] -->|Text| B(Round)
-    B --> C{Decision}
-    C -->|One| D[Result 1]
-    C -->|Two| E[Result 2]
-    ```
+<img width="1021" height="764" alt="image" src="https://github.com/user-attachments/assets/d9184464-2cc3-428f-b97d-63c6dd0221a0" />
 
-renders as
+## Conclusion: 
 
-```mermaid
-graph TD
-A[Hard] -->|Text| B(Round)
-B --> C{Decision}
-C -->|One| D[Result 1]
-C -->|Two| E[Result 2]
-```
+In this study, we aimed to develop and evaluate a transdermal delivery system (TDS) for lamotrigine, an anti-epileptic drug. Various formulations of transdermal patches were prepared and characterized. The PIB 400 GSM patch with PG, chemical enhancers, and lamotrigine showed the highest amount of drug delivery in three days across dermatomed porcine ear skin and achieved the therapeutic target for pediatric patients aged between 2-12 years. These results demonstrate the feasibility of developing a transdermal delivery system for potential use in epilepsy treatment.
 
-An example **sequence diagram**:
+References:
+1.	Jafri, I., Shoaib, M. H., Yousuf, R. I., & Ali, F. R. (2019). Effect of permeation enhancers on in vitro release and transdermal delivery of lamotrigine from Eudragit®RS100 polymer matrix-type drug in adhesive patches. Progress in Biomaterials, 8(2), 91–100. https://doi.org/10.1007/s40204-019-0114-9
 
-    ```mermaid
-    sequenceDiagram
-    Alice->>John: Hello John, how are you?
-    loop Healthcheck
-        John->>John: Fight against hypochondria
-    end
-    Note right of John: Rational thoughts!
-    John-->>Alice: Great!
-    John->>Bob: How about you?
-    Bob-->>John: Jolly good!
-    ```
+2.	Emami, J., Ghassami, N., & Ahmadi, F. (2006). Development and validation of a new HPLC method for the determination of lamotrigine and related compounds in tablet formulations. Journal of Pharmaceutical and Biomedical Analysis, 40(4), 999–1005. https://doi.org/10.1016/j.jpba.2005.07.045
 
-renders as
+3.	Vora, D., & Banga, A. K. (2022). Development and evaluation of a drug-in-adhesive transdermal delivery system for the delivery of olanzapine. Expert Opinion on Drug Delivery, 19(11), 1539–1548. https://doi.org/10.1080/17425247.2022.2135700
 
-```mermaid
-sequenceDiagram
-Alice->>John: Hello John, how are you?
-loop Healthcheck
-    John->>John: Fight against hypochondria
-end
-Note right of John: Rational thoughts!
-John-->>Alice: Great!
-John->>Bob: How about you?
-Bob-->>John: Jolly good!
-```
-
-An example **class diagram**:
-
-    ```mermaid
-    classDiagram
-    Class01 <|-- AveryLongClass : Cool
-    Class03 *-- Class04
-    Class05 o-- Class06
-    Class07 .. Class08
-    Class09 --> C2 : Where am i?
-    Class09 --* C3
-    Class09 --|> Class07
-    Class07 : equals()
-    Class07 : Object[] elementData
-    Class01 : size()
-    Class01 : int chimp
-    Class01 : int gorilla
-    Class08 <--> C2: Cool label
-    ```
-
-renders as
-
-```mermaid
-classDiagram
-Class01 <|-- AveryLongClass : Cool
-Class03 *-- Class04
-Class05 o-- Class06
-Class07 .. Class08
-Class09 --> C2 : Where am i?
-Class09 --* C3
-Class09 --|> Class07
-Class07 : equals()
-Class07 : Object[] elementData
-Class01 : size()
-Class01 : int chimp
-Class01 : int gorilla
-Class08 <--> C2: Cool label
-```
-
-An example **state diagram**:
-
-    ```mermaid
-    stateDiagram
-    [*] --> Still
-    Still --> [*]
-    Still --> Moving
-    Moving --> Still
-    Moving --> Crash
-    Crash --> [*]
-    ```
-
-renders as
-
-```mermaid
-stateDiagram
-[*] --> Still
-Still --> [*]
-Still --> Moving
-Moving --> Still
-Moving --> Crash
-Crash --> [*]
-```
-
-## Data Frames
-
-Save your spreadsheet as a CSV file in your page's folder and then render it by adding the _Table_ shortcode to your page:
-
-```go
-{{</* table path="results.csv" header="true" caption="Table 1: My results" */>}}
-```
-
-renders as
-
-{{< table path="results.csv" header="true" caption="Table 1: My results" >}}
 
 ## Did you find this page helpful? Consider sharing it 🙌
