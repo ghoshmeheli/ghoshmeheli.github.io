@@ -1,5 +1,5 @@
 ---
-title: Sustained Delivery of 4-Phenylbutyric Acid through Chitosan Nanoparticles in Foam Formulation for Decontamination and Treatment of Chemical Warfare Agent-Induced Skin Injury
+title: Topical and transdermal delivery of 4-phenylbutyric acid through chitosan nanoparticles dispersed in a Foam formulation: a potential antidote for skin injury due to chemical warfare agents
 summary: We developed a novel dual-action topical foam with 4-PBA-loaded chitosan nanoparticles that combines rapid arsenical decontamination with sustained antidote delivery for lewisite skin injuries.
 date: 2025-01-24
 math: true
