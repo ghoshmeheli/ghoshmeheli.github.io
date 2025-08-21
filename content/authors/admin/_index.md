@@ -76,7 +76,7 @@ education:
   - area: B.Sc. Biotechnology 
     institution: Bangalore University (Institue Rank 1)
     date_start: '2016-08-25'
-    date_end: ''
+    date_end: '2019-08-25'
     summary: |
       GPA: 8.21/10.0
       
@@ -164,7 +164,7 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Dancing/Travelling
+      - name: Dancing
         description: ''
         percent: 70
         icon: person-simple-walk
